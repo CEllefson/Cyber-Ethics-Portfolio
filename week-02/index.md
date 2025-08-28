@@ -1,13 +1,13 @@
 # Privacy by Design: Monitoring Policy (Week 2)
 
 ## Principles Summary
-**Notice/Consent** is the required acknowledgement from the user to allow companies or institutions to collect data. 
+**_Notice/Consent_** is the required acknowledgement from the user to allow companies or institutions to collect data. 
 
-**Purpose limitation** is the scope at which data collection is conducted and the amount of data collected, not allowing for more than what was originally agreed upon. 
+**_Purpose limitation_** is the scope at which data collection is conducted and the amount of data collected, not allowing for more than what was originally agreed upon. 
 
-**Data Minimization** is collecting the smallest amount of data required to accomplish a specific task. 
+**_Data Minimization_** is collecting the smallest amount of data required to accomplish a specific task. 
 
-**Proportionality** is whether data being collected is important to the purpose of data collection or not, data outside of scope should not be collected. 
+**_Proportionality_** is whether data being collected is important to the purpose of data collection or not, data outside of scope should not be collected. 
 
 ## My Monitoring & Retention Clause
 This School monitors wifi access along with lab equipment usage to protect operations and comply with policy. Monitoring is limited to authorized purposes and assigned scope to be inline with the NIST Privacy Framework 1.1. Network anomalies will be flagged and reviewed by personnel, after which data collected will be disposed of after the 30 day holding period unless required for other ongoing investigations or litigation. Users receive notice at sign-in and through the AUP; personal communications are not reviewed except as required by law or incident response.
