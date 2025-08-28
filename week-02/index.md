@@ -23,3 +23,5 @@ For the Monitoring and Retention Clause, multiple principles of data privacy wer
 
 
 ## Reflection
+
+I would most likely tighten the time that data is held, but I have seen some standards of a few years rather than 30 days. I think it depends on the type of data being collected and what the use case would be for it. The appeals process could be more well defined but usually a ticket to OIT is sufficient, and may be escalated as needed. 
