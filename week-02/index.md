@@ -1,6 +1,6 @@
 # Privacy by Design: Monitoring Policy (Week 2)
 
-## Principles Summary
+## Principles Summary (_Personal Definition_)
 **_Notice/Consent_** is the required acknowledgement from the user to allow companies or institutions to collect data. 
 
 **_Purpose limitation_** is the scope at which data collection is conducted and the amount of data collected, not allowing for more than what was originally agreed upon. 
