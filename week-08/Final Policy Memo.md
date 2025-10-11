@@ -34,3 +34,7 @@ https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/ci
 
 https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-webvpn-z5xP8EUB
 
+https://www.justice.gov/jm/jm-9-48000-computer-fraud
+
+[CYBR2100_FinalPolicyMemo_EllefsonChristian (1).pdf](https://github.com/user-attachments/files/22860619/CYBR2100_FinalPolicyMemo_EllefsonChristian.1.pdf)
+
